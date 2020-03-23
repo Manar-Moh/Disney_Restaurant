@@ -1,0 +1,360 @@
+﻿  level.cpp
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.h(417,8): error C2086: 'int level::money_level': redefinition
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.h(166): message : see declaration of 'level::money_level'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(29,56): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(141,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(146,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(151,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(156,47): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(181,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(185,47): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(190,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(194,47): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(199,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(203,47): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(208,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(213,47): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(218,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(223,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(238,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(243,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(258,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(263,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(268,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(273,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(278,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(283,47): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(324,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(330,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(342,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(348,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(353,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(359,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(364,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(369,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(381,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(386,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(406,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(413,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(419,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(524,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(547,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(566,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(584,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(590,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(596,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(602,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(607,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(613,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(619,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(625,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(631,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(637,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(644,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(650,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(657,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(664,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(671,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(678,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(685,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(692,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(697,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(708,52): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(732,54): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(752,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(757,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(1614,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(2388,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3448,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3458,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3468,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3478,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3488,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3498,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3508,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3518,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3528,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3538,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3548,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3568,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3578,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3644,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3675,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3698,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3707,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3738,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3786,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3796,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3806,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3816,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3826,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3836,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3846,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3856,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3866,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3876,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3886,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3906,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3916,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(3982,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4013,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4036,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4045,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4076,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4124,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4134,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4144,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4154,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4164,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4174,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4184,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4194,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4204,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4214,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4224,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4244,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4254,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4321,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4352,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4375,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4384,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4415,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4568,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4607,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.cpp(4623,21): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.h(417,8): error C2086: 'int level::money_level': redefinition
+C:\Users\Manar\source\repos\Disney Restaurant\Disney Restaurant\level.h(166): message : see declaration of 'level::money_level'
+  Generating Code...
